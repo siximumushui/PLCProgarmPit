@@ -7,4 +7,4 @@ Step on the hole
 3、FB块和FC块使用--|P|--：扫描操作数的信号上升沿 时，信号状态存储的边沿存储器位不能使用M点，否则可能会出现上面的操作数值修改了  
   但是下面的操作数无法保存上一个扫描周期的值  
 4、在使用IW，MW、QW之类的多点位变量时，要注意不要使用对应的变量点，例如IW10，会用到  
-http://nianjian.xiaze.com/tags.php?/%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%B3%97%E6%B4%AA%E5%8E%BF1990%E5%B9%B4%E4%BA%BA%E5%8F%A3%E6%99%AE%E6%9F%A5%E8%B5%84%E6%96%99/1/13640399272/
+http://nianjian.xiaze.com/tags.php?/%E5%85%89%E7%9B%98%E7%89%88%E7%BB%9F%E8%AE%A1%E5%B9%B4%E9%89%B4/1/13640399412/
